@@ -1,0 +1,348 @@
+# depslib dependency file v1.0
+1504009170 source:d:\source\cb\test\main.cpp
+	<iostream>
+	<Calc.h>
+	"gtest/gtest.h"
+
+1504006611 source:d:\source\cb\test\calc.cpp
+	"Calc.h"
+
+1504013626 d:\source\cb\test\calc.h
+	<regex>
+	<string>
+	<stack>
+	<clocale>
+
+1503635472 d:\source\cb\test\gtest\gtest.h
+	<limits>
+	<ostream>
+	<vector>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-string.h"
+	"gtest/gtest-death-test.h"
+	"gtest/gtest-message.h"
+	"gtest/gtest-param-test.h"
+	"gtest/gtest-printers.h"
+	"gtest/gtest_prod.h"
+	"gtest/gtest-test-part.h"
+	"gtest/gtest-typed-test.h"
+	"gtest/gtest_pred_impl.h"
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-internal.h
+	"gtest/internal/gtest-port.h"
+	<stdlib.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<unistd.h>
+	<stdexcept>
+	<ctype.h>
+	<float.h>
+	<string.h>
+	<iomanip>
+	<limits>
+	<map>
+	<set>
+	<string>
+	<vector>
+	"gtest/gtest-message.h"
+	"gtest/internal/gtest-string.h"
+	"gtest/internal/gtest-filepath.h"
+	"gtest/internal/gtest-type-util.h"
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-port.h
+	<ctype.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<algorithm>
+	<iostream>
+	<sstream>
+	<string>
+	<utility>
+	<vector>
+	"gtest/internal/gtest-port-arch.h"
+	"gtest/internal/custom/gtest-port.h"
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	<strings.h>
+	<android/api-level.h>
+	<regex.h>
+	<typeinfo>
+	<pthread.h>
+	<time.h>
+	<tuple>
+	"gtest/internal/gtest-tuple.h"
+	<tuple>
+	<tuple>
+	<tr1/tuple>
+	<tr1/tuple>
+	<tuple>
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-port-arch.h
+	<winapifamily.h>
+
+1503635472 d:\source\cb\test\gtest\internal\custom\gtest-port.h
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-tuple.h
+	<utility>
+
+1503635472 d:\source\cb\test\gtest\gtest-message.h
+	<limits>
+	"gtest/internal/gtest-port.h"
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-string.h
+	<mem.h>
+	<string.h>
+	<string>
+	"gtest/internal/gtest-port.h"
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-filepath.h
+	"gtest/internal/gtest-string.h"
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-type-util.h
+	"gtest/internal/gtest-port.h"
+	<cxxabi.h>
+	<acxx_demangle.h>
+
+1503635472 d:\source\cb\test\gtest\gtest-death-test.h
+	"gtest/internal/gtest-death-test-internal.h"
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-death-test-internal.h
+	"gtest/internal/gtest-internal.h"
+	<stdio.h>
+
+1503635472 d:\source\cb\test\gtest\gtest-param-test.h
+	"gtest/internal/gtest-port.h"
+	<utility>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-param-util.h"
+	"gtest/internal/gtest-param-util-generated.h"
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-param-util.h
+	<ctype.h>
+	<iterator>
+	<set>
+	<utility>
+	<vector>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-linked_ptr.h"
+	"gtest/internal/gtest-port.h"
+	"gtest/gtest-printers.h"
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-linked_ptr.h
+	<stdlib.h>
+	<assert.h>
+	"gtest/internal/gtest-port.h"
+
+1503635472 d:\source\cb\test\gtest\gtest-printers.h
+	<ostream>
+	<sstream>
+	<string>
+	<utility>
+	<vector>
+	"gtest/internal/gtest-port.h"
+	"gtest/internal/gtest-internal.h"
+	<tuple>
+	"gtest/internal/custom/gtest-printers.h"
+
+1503635472 d:\source\cb\test\gtest\internal\custom\gtest-printers.h
+
+1503635472 d:\source\cb\test\gtest\internal\gtest-param-util-generated.h
+	"gtest/internal/gtest-param-util.h"
+	"gtest/internal/gtest-port.h"
+
+1503635472 d:\source\cb\test\gtest\gtest_prod.h
+
+1503635472 d:\source\cb\test\gtest\gtest-test-part.h
+	<iosfwd>
+	<vector>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-string.h"
+
+1503635472 d:\source\cb\test\gtest\gtest-typed-test.h
+	"gtest/internal/gtest-port.h"
+	"gtest/internal/gtest-type-util.h"
+
+1503635472 d:\source\cb\test\gtest\gtest_pred_impl.h
+
+1504008317 source:d:\source\cb\test\unittests.cpp
+	"Calc.h"
+	"gtest/gtest.h"
+
+1507577814 source:d:\source\nt_test\calc.cpp
+	"Calc.h"
+
+1507577814 d:\source\nt_test\calc.h
+	<regex>
+	<string>
+	<stack>
+	<clocale>
+
+1507577814 source:d:\source\nt_test\unittests.cpp
+	"Calc.h"
+	"gtest/gtest.h"
+
+1507577814 d:\source\nt_test\gtest\gtest.h
+	<limits>
+	<ostream>
+	<vector>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-string.h"
+	"gtest/gtest-death-test.h"
+	"gtest/gtest-message.h"
+	"gtest/gtest-param-test.h"
+	"gtest/gtest-printers.h"
+	"gtest/gtest_prod.h"
+	"gtest/gtest-test-part.h"
+	"gtest/gtest-typed-test.h"
+	"gtest/gtest_pred_impl.h"
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-internal.h
+	"gtest/internal/gtest-port.h"
+	<stdlib.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<unistd.h>
+	<stdexcept>
+	<ctype.h>
+	<float.h>
+	<string.h>
+	<iomanip>
+	<limits>
+	<map>
+	<set>
+	<string>
+	<vector>
+	"gtest/gtest-message.h"
+	"gtest/internal/gtest-string.h"
+	"gtest/internal/gtest-filepath.h"
+	"gtest/internal/gtest-type-util.h"
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-port.h
+	<ctype.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<algorithm>
+	<iostream>
+	<sstream>
+	<string>
+	<utility>
+	<vector>
+	"gtest/internal/gtest-port-arch.h"
+	"gtest/internal/custom/gtest-port.h"
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	<strings.h>
+	<android/api-level.h>
+	<regex.h>
+	<typeinfo>
+	<pthread.h>
+	<time.h>
+	<tuple>
+	"gtest/internal/gtest-tuple.h"
+	<tuple>
+	<tuple>
+	<tr1/tuple>
+	<tr1/tuple>
+	<tuple>
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-port-arch.h
+	<winapifamily.h>
+
+1507577814 d:\source\nt_test\\gtest\internal\custom\gtest-port.h
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-tuple.h
+	<utility>
+
+1507577814 d:\source\nt_test\\gtest\gtest-message.h
+	<limits>
+	"gtest/internal/gtest-port.h"
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-string.h
+	<mem.h>
+	<string.h>
+	<string>
+	"gtest/internal/gtest-port.h"
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-filepath.h
+	"gtest/internal/gtest-string.h"
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-type-util.h
+	"gtest/internal/gtest-port.h"
+	<cxxabi.h>
+	<acxx_demangle.h>
+
+1507577814 d:\source\nt_test\\gtest\gtest-death-test.h
+	"gtest/internal/gtest-death-test-internal.h"
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-death-test-internal.h
+	"gtest/internal/gtest-internal.h"
+	<stdio.h>
+
+1507577814 d:\source\nt_test\\gtest\gtest-param-test.h
+	"gtest/internal/gtest-port.h"
+	<utility>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-param-util.h"
+	"gtest/internal/gtest-param-util-generated.h"
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-param-util.h
+	<ctype.h>
+	<iterator>
+	<set>
+	<utility>
+	<vector>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-linked_ptr.h"
+	"gtest/internal/gtest-port.h"
+	"gtest/gtest-printers.h"
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-linked_ptr.h
+	<stdlib.h>
+	<assert.h>
+	"gtest/internal/gtest-port.h"
+
+1507577814 d:\source\nt_test\\gtest\gtest-printers.h
+	<ostream>
+	<sstream>
+	<string>
+	<utility>
+	<vector>
+	"gtest/internal/gtest-port.h"
+	"gtest/internal/gtest-internal.h"
+	<tuple>
+	"gtest/internal/custom/gtest-printers.h"
+
+1507577814 d:\source\nt_test\\gtest\internal\custom\gtest-printers.h
+
+1507577814 d:\source\nt_test\\gtest\internal\gtest-param-util-generated.h
+	"gtest/internal/gtest-param-util.h"
+	"gtest/internal/gtest-port.h"
+
+1507577814 d:\source\nt_test\\gtest\gtest_prod.h
+
+1507577814 d:\source\nt_test\\gtest\gtest-test-part.h
+	<iosfwd>
+	<vector>
+	"gtest/internal/gtest-internal.h"
+	"gtest/internal/gtest-string.h"
+
+1507577814 d:\source\nt_test\\gtest\gtest-typed-test.h
+	"gtest/internal/gtest-port.h"
+	"gtest/internal/gtest-type-util.h"
+
+1507577814 d:\source\nt_test\\gtest\gtest_pred_impl.h
+
