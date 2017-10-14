@@ -1,3 +1,3 @@
 # Test case
-Simple console calculator
+Simple console calculator.
 Compiled with minGW 6.3.0 in IDE Code::Blocks 16.01. Unit tests performed with Google Test framework 1.8.0.
